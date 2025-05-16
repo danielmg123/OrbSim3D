@@ -1,0 +1,11 @@
+# Build artifacts
+/build*/
+
+# IDE Folders
+.vscode/
+
+# macOS
+.DS_Store
+
+# Cache folder
+.cache/
